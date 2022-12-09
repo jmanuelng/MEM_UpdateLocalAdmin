@@ -7,7 +7,7 @@
     Verifies that a local user account exists, is enabled and has "Password Never Expires" enabled. 
 
 .NOTES
-    WAINING: Writing a username and/or password in script is completely not recommended under any circumstances. 
+    WARNING: Writing a username and/or password in script is completely not recommended under any circumstances. 
     Script encryption done via this repository is extremely basic. Microsoft's Intune Proactive Remediations leave copy of script in local computer. 
     If you do consider the use of this script please review how to create a scheduled task to remove script from computer. 
 
